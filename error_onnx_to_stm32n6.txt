@@ -1,0 +1,4 @@
+D:\STM32N6_democode\STM32N6_GettingStarted_ImageClassification-v2.1.0\STM32N6_GettingStarted_ImageClassification-v2.1.0-rc5\Model>stedgeai generate --model tinyvit_int8_qdq.onnx --target stm32n6 --st-neural-art default@user_neuralart_STM32N6570-DK.json
+ST Edge AI Core v2.2.0-20266 2adc00962
+
+INTERNAL ERROR: Exported ONNX could be malformed since ONNX shape inference fails
